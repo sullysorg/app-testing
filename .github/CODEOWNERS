@@ -1,7 +1,7 @@
 /LICENSE @davidscodex
 /src/ @davidscodex
 32_file_\ _more @davidscodex
-33_file_\!_more @davidscodex
+33_file_[!]_more @davidscodex
 34_file_\"_more @davidscodex
 35_file_\#_more @davidscodex
 36_file_\$_more @davidscodex
@@ -59,7 +59,7 @@
 88_file_X_more @davidscodex
 89_file_Y_more @davidscodex
 90_file_Z_more @davidscodex
-91_file_\[_more @davidscodex
+91_file_[[]_more @davidscodex
 92_file_\\_more @davidscodex
 93_file_\]_more @davidscodex
 94_file_\^_more @davidscodex
