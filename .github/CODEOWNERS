@@ -234,3 +234,7 @@
 /unicode_???/98_b_more @davidscodex
 /unicode_???/99_c_more @davidscodex
 /unicode_???/another_file 
+
+/src/dir\ with\ spaces/another\ file\ with\ spaces @davidscodex
+/src/file\ with\ spaces @davidscodex
+/unicode_???/32_\ _more @davidscodex
