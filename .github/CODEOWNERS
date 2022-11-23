@@ -4,4 +4,4 @@
 /src/* @sullysorg/team1
 /src/dir\ with\ spaces/* @sullysorg/team1
 /src/dir\ with\ spaces/another\ file\ with\ spaces @sullysorg/childTeam1
-/unicode_???/32_\ _more @sullysorg/team1
+/unicode_???/32_\ _more @sullysorg/team1 @davidscodex
