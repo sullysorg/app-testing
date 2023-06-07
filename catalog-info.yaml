@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app-testing
+  annotations:
+    github.com/project-slug: sullysorg/app-testing
+spec:
+  type: component
+  lifecycle: unknown
+  owner: guests
