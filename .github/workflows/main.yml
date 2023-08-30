@@ -1,0 +1,17 @@
+on: [push]
+
+jobs:
+  hello_world_job:
+    runs-on: ubuntu-latest
+    name: A job to say hello
+    steps:
+      # To use this repository's private action,
+      # you must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Sync Backstage Catalog
+        uses: usecodex/echolayer-pipeline-action/@45c6aa691de88f2bede25d730f65bb4accda1956
+        id: hello
+        with:
+          apiPath: "http://192.168.2.103:3000/api"
+          apiKey: ${{ secrets.ECHOLAYER_API_KEY }}
